@@ -19,9 +19,9 @@ SMAKY User's Group (ou Smaky Utilisateurs Groupe)
 - https://log.schroetersa.ch/posts/2023.03.19_bluescsi/  
   https://log.schroetersa.ch/posts/2023.03.26_bluescsi-fosfat/  
   Remplacer le disque SCSI du Smaky par une carte SD avec la BlueSCSI
-- https://jfloren.net/b/2021/8/6/1
+- https://jfloren.net/b/2021/8/6/1  
   A USB Adapter for a Depraz Mouse
-- https://jfloren.net/b/2022/3/2/0
+- https://jfloren.net/b/2022/3/2/0  
   A Modern Depraz Clone
 
 ### Jeux
