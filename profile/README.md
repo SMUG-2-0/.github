@@ -11,6 +11,8 @@ SMAKY User's Group (ou Smaky Utilisateurs Groupe)
 
 - https://www.smaky.ch/le-smaky-infini-libre/  
   Smaky Infini
+- https://github.com/SMUG-2-0/Smaky-6
+  Emulateur Smaky 6, disques, ...
 - https://github.com/Sch-LikA/smemu6  
   Emulator for the Smaky 6, a 1978 Swiss Z80-based personal computer (EPFL / Epsitec)
 
