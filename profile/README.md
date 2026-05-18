@@ -25,6 +25,8 @@ SMAKY User's Group (ou Smaky Utilisateurs Groupe)
 
 ### Matériel
 
+- https://github.com/SMUG-2-0/Smaky-6/tree/master/Emulateur-WD1002  
+  Emulateur de contrôleur de disque dur pour Smaky 6
 - https://log.schroetersa.ch/posts/2023.03.19_bluescsi/  
   https://log.schroetersa.ch/posts/2023.03.26_bluescsi-fosfat/  
   Remplacer le disque SCSI du Smaky par une carte SD avec la BlueSCSI
